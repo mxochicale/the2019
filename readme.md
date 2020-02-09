@@ -1,5 +1,4 @@
-1st OA and %100 reproducible thesis: opinion section for THE.
----
+# 1st OA and %100 reproducible thesis: opinion section for THE.
 
 ## Showing interests 
 On 14 of September 2019, I sent an email to "the.submissions@timeshighereducation.com" 
@@ -12,6 +11,10 @@ Additionally, as I don't have much experience on this type of publication, he al
 suggested to follow models for opinions from the Times, Guardian, New York Times, etc.
 Hence, this repository is aimed to commit the progress regarding this opinion article.
 
+## Draft entry
+* [LaTeX](doc/entry.tex)
+* [PDF](doc/entry.pdf)
+
 
 ## References
 * [Times Higher Education (THE)][THE]
@@ -19,3 +22,11 @@ Hence, this repository is aimed to commit the progress regarding this opinion ar
 
 [THE]: https://www.timeshighereducation.com
 [wTHE]: https://www.timeshighereducation.com/write-times-higher-education
+
+
+## Contact 
+If you have specific questions about the content of this repository, you can contact 
+[Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[the2020-OAPHD]"). 
+If your question might be relevant to other people, please instead 
+[open an issue](https://github.com/mxochicale/the2020/issues).
+
