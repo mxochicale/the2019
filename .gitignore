@@ -1,0 +1,4 @@
+# ignore project files of pycharm
+.idea
+## ignores temporal vim README files
+**/.swp

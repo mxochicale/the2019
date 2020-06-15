@@ -1,20 +1,10 @@
 \documentclass[11pt]{article}
-\usepackage[a4paper, total={6in, 10in}]{geometry}
-\usepackage{natbib}
 %\usepackage{graphicx} %Loading the package
-%\graphicspath{{../src/sinewaves/}}
 
-\usepackage{xspace}
-\newcommand{\R}{\textsf{R}\xspace}
+\usepackage{biblatex}
+\addbibresource{references.bib}
 
-%% Codelinks
-\usepackage{hyperref}
-\usepackage{fontawesome}
-\usepackage{color}
-\definecolor{linkcolor}{rgb}{0.1216,0.4667,0.7059} % blue for ONLINE version
-\definecolor{linkbw}{rgb}{0.0, 0.0, 0.0} % black for PRINTER version
-\newcommand{\codeicon}{{\color{linkcolor}\faFileCodeO}}
-\newcommand{\codecolorlink}[1]{\href{#1}{\codeicon}}
+
 
 
 %\title{The first open access and \%100 reproducible PhD thesis} 
@@ -180,14 +170,12 @@ using more open access software and make science better
 by making it
 open accessible and \%100 reproducible 
 %PhD thesis since the establishment of University of Birmingham 
-\citep{xochicale2019-github}.
+\cite{xochicale2019-github}.
 
 
 %Fri  8 Nov 17:23:25 GMT 2019
 %Growing up in mexico loving being an experimentalist
 
-
-\bibliography{references}
-\bibliographystyle{apalike}
+\printbibliography
 
 \end{document}
