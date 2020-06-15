@@ -1,6 +1,6 @@
-# 1st OA and %100 reproducible thesis: opinion section for THE.
+# Timeline for the entry opinion to Times Higher Education
 
-## Showing interests 
+## Sep 2019: Showing interests 
 On 14 of September 2019, I sent an email to "the.submissions@timeshighereducation.com" 
 to show my interest to the magazine on submitting an entry in the category of features 
 or blogs regarding the publication of the 1st Open Access and %100 PhD thesis since the 
@@ -11,10 +11,13 @@ Additionally, as I don't have much experience on this type of publication, he al
 suggested to follow models for opinions from the Times, Guardian, New York Times, etc.
 Hence, this repository is aimed to commit the progress regarding this opinion article.
 
-## Draft entry
-* [LaTeX](doc/entry.tex)
-* [PDF](doc/entry.pdf)
+## Sep2019 to June 2019: Draft entry
+* https://github.com/mxochicale/the2020/commit/7127d396ffbc8170b85a3b59c39fde9860c3df08
+* https://github.com/mxochicale/the2020/commit/2680f44175aef3d2514d50b4462f063f1bbf7edd
+* https://github.com/mxochicale/the2020/commit/c69be90607015dc9a2ba146f8a37e3f1f5539323
 
+##  June 2019: Polishing submission
+* 
 
 ## References
 * [Times Higher Education (THE)][THE]
@@ -22,11 +25,3 @@ Hence, this repository is aimed to commit the progress regarding this opinion ar
 
 [THE]: https://www.timeshighereducation.com
 [wTHE]: https://www.timeshighereducation.com/write-times-higher-education
-
-
-## Contact 
-If you have specific questions about the content of this repository, you can contact 
-[Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[the2020-OAPHD]"). 
-If your question might be relevant to other people, please instead 
-[open an issue](https://github.com/mxochicale/the2020/issues).
-
