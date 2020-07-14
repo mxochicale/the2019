@@ -1,6 +1,6 @@
 # Timeline for the entry opinion to Times Higher Education
 
-## Sep 2019: Showing interests 
+## Sep 2019: Expression of interests (EOI)
 On 14 of September 2019, I sent an email to "the.submissions@timeshighereducation.com" 
 to show my interest to the magazine on submitting an entry in the category of features 
 or blogs regarding the publication of the 1st Open Access and %100 PhD thesis since the 
